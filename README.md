@@ -5,6 +5,8 @@
 <p>  Guidelines </p>
 <p> Forgot Password </p>
 <p> Statistics for Canada and Ontario </p>
+<p> Live Chat </p>
+<p> Calling Services Straight from the App </p>
 
 <h2> Screenshots </h2>
 <p> Uploaded BetterLife COVID-19 App on GitHub (Assignment 2) </p>
