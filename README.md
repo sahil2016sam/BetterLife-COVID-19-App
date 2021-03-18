@@ -1,10 +1,10 @@
 # BetterLife-COVID-19-App
 
 <h2> App Features </h2>
-- Login and Signup
-- Guidelines
-- Forgot Password
-- Statistics for Canada and Ontario
+<p> Login and Signup </p>
+<p>  Guidelines </p>
+<p> Forgot Password </p>
+<p> Statistics for Canada and Ontario </p>
 
 <h2> Screenshots </h2>
 Uploaded BetterLife COVID-19 App on GitHub (Assignment 2)
